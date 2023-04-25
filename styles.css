@@ -575,11 +575,11 @@ background-image: none!important;
      all: initial !important;
   }
     #form2 {
-    height:700px;
+    height:800px;
   }
 
 #form2 div{
-   
+   margin-bottom: 30px;
   width: 95% !important;
   height: unset;
 }
